@@ -4,6 +4,6 @@
 
 ### This is where the fun happens.
 
--[ ] check for fun
--[ ] check for fancy
--[ ] check for freedom
+-[ ]check for fun
+-[ ]check for fancy
+-[ ]check for freedom
